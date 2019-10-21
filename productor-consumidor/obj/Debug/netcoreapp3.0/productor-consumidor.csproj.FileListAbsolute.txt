@@ -1,0 +1,11 @@
+C:\Users\brand\source\repos\productor-consumidor\productor-consumidor\bin\Debug\netcoreapp3.0\productor-consumidor.exe
+C:\Users\brand\source\repos\productor-consumidor\productor-consumidor\bin\Debug\netcoreapp3.0\productor-consumidor.deps.json
+C:\Users\brand\source\repos\productor-consumidor\productor-consumidor\bin\Debug\netcoreapp3.0\productor-consumidor.runtimeconfig.json
+C:\Users\brand\source\repos\productor-consumidor\productor-consumidor\bin\Debug\netcoreapp3.0\productor-consumidor.runtimeconfig.dev.json
+C:\Users\brand\source\repos\productor-consumidor\productor-consumidor\bin\Debug\netcoreapp3.0\productor-consumidor.dll
+C:\Users\brand\source\repos\productor-consumidor\productor-consumidor\bin\Debug\netcoreapp3.0\productor-consumidor.pdb
+C:\Users\brand\source\repos\productor-consumidor\productor-consumidor\obj\Debug\netcoreapp3.0\productor-consumidor.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\productor-consumidor\productor-consumidor\obj\Debug\netcoreapp3.0\productor-consumidor.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\productor-consumidor\productor-consumidor\obj\Debug\netcoreapp3.0\productor-consumidor.AssemblyInfo.cs
+C:\Users\brand\source\repos\productor-consumidor\productor-consumidor\obj\Debug\netcoreapp3.0\productor-consumidor.dll
+C:\Users\brand\source\repos\productor-consumidor\productor-consumidor\obj\Debug\netcoreapp3.0\productor-consumidor.pdb
