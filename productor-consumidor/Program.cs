@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace productor_consumidor
 {
@@ -112,19 +113,11 @@ namespace productor_consumidor
         {
             int turno;
             int vuelta = 0;
-
-            //for (int a = 0; a < 30; a++)
-            //{
-            //    arrproducto[a] = 1;
-            //}
-
-            //ImprimirProducto();
-
-            while (true)
+            
+            do
             {
                 turno = numaleatorio.Next(0, 2);
                 Console.WriteLine( "Vuelta: {0}",vuelta);
-                //Console.WriteLine("");
 
                 if (turno == 0)
                 {
@@ -141,8 +134,9 @@ namespace productor_consumidor
                 Console.WriteLine("");
                 Console.WriteLine("");
                 vuelta++;
-                Console.ReadKey();
-            }
+                Thread.Sleep(2000);
+
+            }while (!(Console.KeyAvailable && Console.ReadKey(true).Key == ConsoleKey.Escape));
         }
     }
 }
